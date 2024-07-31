@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.thedustbuster.bpcl.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"EnderPearlEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
