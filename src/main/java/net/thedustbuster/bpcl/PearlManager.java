@@ -33,7 +33,7 @@ public class PearlManager {
 
   private static void checkPearl(ServerWorld world, EnderPearlData data) {
     /* This may seem weird. Basically, if the next chunk is not loaded (if the mixin failed to load it) then the pearl is going to get stuck. Since we only
-    really know the pearl's exact velocity and position the tick before it gets stuck, we are going to move the pearl back to it's chunk position before it gets stuck.
+    really know the pearl's exact velocity and position the tick before it gets stuck, we are going to move the pearl back to its chunk position before it gets stuck.
     The issue is, this chunk is not unloaded yet, as it is loaded for 2 ticks, not 1. So if we check if the current chunk is loaded, it will return true. Then one more
     tick would go by, the pearl gets stuck in the next chunk, then the program tries to move it back, but it is now unloaded and will get stuck in the previous chunk.
     Basically we are figuring out when it will get stuck instead of waiting for it to get stuck. */

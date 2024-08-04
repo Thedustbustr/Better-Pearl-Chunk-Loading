@@ -8,8 +8,8 @@
 		"Thedustbuster"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://thedustbuster.net/",
+		"sources": "https://github.com/Thedustbustr/Better-Pearl-Chunk-Loading"
 	},
 	"license": "MIT",
 	"icon": "assets/bpcl/icon.png",
