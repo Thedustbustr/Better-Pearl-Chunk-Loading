@@ -1,4 +1,4 @@
-# This Mod's Functionality Has Been Moved to the `betterEnderPearlChunkLoading` Rule in Carpet Extra Extras: [https://modrinth.com/mod/carpet-extra-extras](https://modrinth.com/mod/carpet-extra-extras)](https://github.com/Thedustbustr/Carpet-Extra-Extras)
+# This Mod's Functionality Has Been Moved to the `betterEnderPearlChunkLoading` Rule in Carpet Extra Extras: [https://github.com/Thedustbustr/Carpet-Extra-Extras](https://github.com/Thedustbustr/Carpet-Extra-Extras)
 
 ### Better-Pearl-Chunk-Loading
 CarpetExtra's `enderPearlChunkLoading` rule did not work properly, so I made my own simple mod to achieve the same functionality.
